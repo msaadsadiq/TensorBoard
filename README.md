@@ -12,5 +12,8 @@ tensorboard --logdir=/tmp/tensorflow_logs
 Then
 in the browser, type http://0.0.0.0:6006/ and press Enter. 
 
-![alt-text](https://github.com/msaadsadiq/TensorBoard/blob/master/visuals.png)
+![alt-text](https://github.com/msaadsadiq/TensorBoard/blob/master/graph.png)
+
+
+![alt-text](https://github.com/msaadsadiq/TensorBoard/blob/master/metrics.png)
           
